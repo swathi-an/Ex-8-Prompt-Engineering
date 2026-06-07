@@ -1,3 +1,4 @@
+
 EX-8- Exploration of Prompting Techniques for Video Generation
 
 Aim:
@@ -31,3 +32,4 @@ Observations and analysis
 
 Result:
 Thus, the prompting techniques for AI video generation were successfully explored and analyzed using multiple prompt structures.
+[EX8_Video_Generation_Detailed_Report.pdf](https://github.com/user-attachments/files/28678380/EX8_Video_Generation_Detailed_Report.pdf)
